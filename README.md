@@ -1,2 +1,1 @@
-# alx-zero_day
-an intro into using github
+It is all about using git.
